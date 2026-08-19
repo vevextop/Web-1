@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+        content="width=device-width,
+        inital-scale=1.0">
+        <title>Curriculo</title>
+</head>
+<body>
+ <center>
+    <h1> Evellyn Souza Do Nascimento </h1>
+    <p> Brasileira, Solteira, 85 8208-1465 </p>
+    <p> souzaevellyn9272@gmail.com, Barra do Ceará, Fortaleza-CE </p>
+ </center>
+<br>
+<hr>
+<h2> Objetivo </h2>
+<ul>
+       <li> Atleta Profissional de Karatê </li>
+</ul>
+<br>
+<hr>        
+<h2> Formação Acadêmica </h2>
+<ul>
+       <li> Faculdade de Educação Física, UECE, 2032 </li>
+       <li> Ensino Médio Completo, Paulo Petrola, 2028 </li>
+       <li> Ensino Fundamental, Dom Fragoso, 2025 </li>
+</ul>
+<br>
+<hr>
+<h2> Treinamentos/Cursos </h2>
+<ul>
+       <li> Curso de Arbitragem, <a href="http://www.karatece.com.br/" target="_blank"> FEEKC</a>, 2026 </li>
+       <li> Curso de Técnico, <a href="https://www.cebk.com.br/" target="_blank"> CEBK</a>, 2025 </li>
+       <li> Curso de Exame, <a href="http://www.karatece.com.br/" target="_blank"> FEEKC</a>, 2026</li>
+</ul>
+<br>
+<hr>
+<h2> Outros </h2>
+<ul>
+       <li> Possui carteira de motorista (A,B) </li>
+       <li> Jogadora de Brawl Stars </li>
+       <li> Tem casa própria </li>
+</ul>
+<br>
+<hr>
