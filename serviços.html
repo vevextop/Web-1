@@ -5,15 +5,84 @@
 <meta name="viewport"
 content="width=device-width, inital-scale=1.0">
 <title>Serviços</title>
+    <style>
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: blueviolet;
+    color: black;
+}
+header{
+    background-color:pink;
+    color: gray;
+    text-align: center;
+    padding: 25px;
+}
+nav{
+    background-color:darkgrey;
+    padding: 15px;
+    text-align:center;
+}
+nav a{
+    color:pink;
+    text-decoration:none ;
+    margin: 0 15px;
+}
+nav a:houver{
+    color: gray;
+}
+.container{
+    display:flex;
+    gap: 20px;
+    padding: 20px;
+    min-height: 400px;
+}
+aside{
+    width: 80%;
+    background-color: rgb(104, 104, 104);
+    margin: 80px;
+    padding: 0 15px;
+}
+main{
+    flex: 1;
+    background-color: gray;
+    padding: 20px;
+    border-radius: 5px;
+}
+footer{
+    background-color: gray;
+    color:black;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+@media (max-width: 600px){
+    .container{
+        flex-direction: column;
+    }
+    aside{
+        width: 100%;
+    }
+    nav a{
+        display: inline-block;
+        margin: 5px;/* Centraliza o texto do h1 */
+    }
+}
+    </style>
 </head>
 <body>
-    <nav>
-    <a href="index.html">Início</a>
-    </nav>
+  
     <header>
 <h1>Serviços Especializados</h1>
 <p>Oferecemos serviços consultivos e técnicos personalizados para atender às necessidades específicas e aos desafios mais exigentes do seu projeto.</p>
-    </header>
+    </header> 
+    <nav>
+    <a href="index.html">Início</a>
+    </nav>
     <main>
     <section>
         <article>
